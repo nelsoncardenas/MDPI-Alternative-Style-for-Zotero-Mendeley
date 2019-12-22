@@ -1,5 +1,5 @@
 # MDPI-Alternative-Style-for-Zotero-Mendeley
-Actual csl file for MDPI reference in Zotero repository doesn't use DOI. This is an alternative .csl archive for MDPI format with DOI detection. 
+The instructions for the scientific articles of the MDPI editorial require the writing of the DOI of each reference. This .csl file (compatible with Mendeley and Zotero) is a modification of the authorized Zotero Style Repository file that allows you to detect the DOI of each reference and configure the format automatically, being compatible with the requirements of MDPI.
 
 #Reference
 https://www.zotero.org/styles?q=id%3Amultidisciplinary-digital-publishing-institute
